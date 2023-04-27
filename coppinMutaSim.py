@@ -8,7 +8,7 @@ Created on Sun Mar 27 21:46:23 2022
 
 from random import random, choice
 import sys
-#from itertools import groupby
+from itertools import groupby
 from Bio import SeqIO
 
 
